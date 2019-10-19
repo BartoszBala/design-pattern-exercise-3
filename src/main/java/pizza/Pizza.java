@@ -21,6 +21,7 @@ public abstract void showPizzaInfo();
         return "Pizza{" +
                 "cost=" + cost +
                 ", components=" + components +
+                ", pizzaType=" + pizzaType +
                 '}';
     }
 }
